@@ -657,7 +657,10 @@ p, h2, h3 {
     bottom: 8px !important;
   }
   .cadre:hover .composition__complémentaire {
-    padding-right: 160px !important;
+    padding-right: 170px !important;
+  }
+  .cadre:hover .composition__plat{
+    padding-right: 170px !important;
   }
   .cadre {
     height: 70px !important;
