@@ -638,6 +638,11 @@ p, h2, h3 {
     font-size: 30px !important;
     padding-top: 40px !important;
   }
+  .fa-heart::after{
+    opacity:1; 
+    top: 40px!important;
+    right: 0px!important
+  }
   .cadre:hover::after {
     width: 100px;
   }
